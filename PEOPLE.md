@@ -1,2 +1,1 @@
 Haskell Curry
-new data
